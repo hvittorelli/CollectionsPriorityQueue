@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\bin\Debug\net6.0\CollectionsPriorityQueue.exe
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\bin\Debug\net6.0\CollectionsPriorityQueue.deps.json
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\bin\Debug\net6.0\CollectionsPriorityQueue.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\bin\Debug\net6.0\CollectionsPriorityQueue.dll
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\bin\Debug\net6.0\CollectionsPriorityQueue.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\CollectionsPriorityQueue.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\CollectionsPriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\CollectionsPriorityQueue.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\CollectionsPriorityQueue.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\CollectionsPriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\CollectionsPriorityQueue.dll
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\refint\CollectionsPriorityQueue.dll
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\CollectionsPriorityQueue.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\CollectionsPriorityQueue.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\CollectionsPriorityQueue\CollectionsPriorityQueue\obj\Debug\net6.0\ref\CollectionsPriorityQueue.dll
